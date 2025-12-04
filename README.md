@@ -148,26 +148,11 @@ src/main/java/com/example/adprocessor
 │   ├── MetricsResult.java
 │   └── RecommendationResult.java
 ├── service/
+│   ├── ProcessService.java
 │   ├── FileReaderService.java
 │   ├── MetricsService.java
 │   └── RecommendationService.java
 └── util/JsonWriter.java
 ```
 
----
 
-# 🧪 Testing
-Run all tests:
-```bash
-mvn test
-```
-
----
-
-# 📜 License
-MIT
-
----
-
-# 🤝 Contributions
-Pull requests and suggestions are welcome.
