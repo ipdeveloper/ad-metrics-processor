@@ -1,0 +1,7 @@
+spring:
+  main:
+    banner-mode: "off"
+app:
+  output:
+    metrics-file: "metrics.json"
+    recommendations-file: "recommendations.json"
